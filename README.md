@@ -159,7 +159,7 @@ Developing a game like this can teach you several important lessons:
 
 # Hi, I'm Sookchand! 👋
 
-Strive to improve with each passing moment, surpassing the person I was in the previous minute, the previous hour, and even the person you were yesterday.
+Strive to improve with each passing moment, surpassing the person I was in the previous minute, the previous hour, and even the person I were yesterday.
 ## 🚀 About Me
 I have experience as a data scientist and machine learning engineer. I have worked on projects involving the development of predictive models, the optimization of machine learning algorithms, and the deployment of machine learning models. I have also worked on projects involving the analysis of large datasets, the development of data-driven insights, and the creation of data visualizations.
 ## 🛠 Skills
