@@ -53,7 +53,6 @@ Here are the documentations for the technologies used in creating the game:
 1. **Python**: Python is the programming language used to write the game. You can find more about Python in its official documentation¹².
    
 
-
 3. **Random Module**: This built-in Python module is used to generate random numbers. You can learn more about it in its official documentation⁵.
 
 
@@ -75,6 +74,7 @@ Here are the documentations for the technologies used in creating the game:
 9. **Comments**: Comments (lines starting with `#` or enclosed in triple quotes `'''`) are used to explain what different parts of the code do. You can learn more about comments in Python from these resources[^10^]²⁶²⁷²⁸²⁹[^30^].
 
 Source: Conversation with Bing, 9/25/2023
+
 (1) Our Documentation | Python.org. https://www.python.org/doc/.
 
 (2) Python 3.11.5 documentation. https://docs.python.org/.
