@@ -23,7 +23,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![blackjack](https://github.com/Sookchand/Blackjack/assets/34344439/d8daa21b-926f-4d41-8205-ae78d6f00611)
+
 
 
 ## Tech Stack
