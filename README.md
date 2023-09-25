@@ -53,51 +53,88 @@ Here are the documentations for the technologies used in creating the game:
 1. **Python**: Python is the programming language used to write the game. You can find more about Python in its official documentation¹².
    
 
+
 3. **Random Module**: This built-in Python module is used to generate random numbers. You can learn more about it in its official documentation⁵.
+
 
 4. **Functions**: Functions are used to encapsulate different parts of the game logic. You can learn more about functions in Python from its official documentation⁹.
 
+
 5. **Control Flow Structures**: The game uses `if` statements and `while` loops to control the flow of the game. These are fundamental concepts in most programming languages. You can learn more about control flow structures in Python from its official documentation¹³¹⁴.
+
 
 6. **Lists**: The game uses lists to represent the deck of cards and the hands of the player and computer. Lists are a type of data structure that can hold multiple items. You can learn more about lists in Python from its official documentation¹⁶.
 
+
 7. **Input/Output**: The game uses Python's built-in `input()` function to get input from the user, and it uses `print()` statements to display information to the user. You can learn more about input and output in Python from its official documentation[^20^]²¹.
 
+
 8. **Import Statement**: The `import` statement is used to include external modules (like `random`) into the program. You can learn more about import statement in Python from its official documentation²²²³²⁴²⁵.
+
 
 9. **Comments**: Comments (lines starting with `#` or enclosed in triple quotes `'''`) are used to explain what different parts of the code do. You can learn more about comments in Python from these resources[^10^]²⁶²⁷²⁸²⁹[^30^].
 
 Source: Conversation with Bing, 9/25/2023
 (1) Our Documentation | Python.org. https://www.python.org/doc/.
+
 (2) Python 3.11.5 documentation. https://docs.python.org/.
+
 (3) random — Generate pseudo-random numbers — Python 3.11.5 documentation. https://docs.python.org/3/library/random.html.
+
 (4) Built-in Functions — Python 3.11.5 documentation. https://docs.python.org/3/library/functions.html.
+
 (5) 4. More Control Flow Tools — Python 3.11.5 documentation. https://docs.python.org/3/tutorial/controlflow.html.
+
 (6) Python Control Flow Statements and Loops – PYnative. https://pynative.com/python-control-flow-statements/.
+
 (7) 5. Data Structures — Python 3.11.5 documentation. https://docs.python.org/3/tutorial/datastructures.html.
+
 (8) 7. Input and Output — Python 3.11.5 documentation. https://docs.python.org/3/tutorial/inputoutput.html.
+
 (9) Basic Input, Output, and String Formatting in Python. https://realpython.com/python-input-output/.
+
 (10) 5. The import system — Python 3.11.5 documentation. https://docs.python.org/3/reference/import.html.
+
 (11) 7. Simple statements — Python 3.11.5 documentation. https://docs.python.org/3/reference/simple_stmts.html.
+
 (12) importlib — The implementation of import — Python 3.11.5 documentation. https://docs.python.org/3/library/importlib.html.
+
 (13) Python import: Advanced Techniques and Tips – Real Python. https://realpython.com/python-import/.
+
 (14) Documenting Python Code: A Complete Guide – Real Python. https://realpython.com/documenting-python-code/.
+
 (15) Writing Comments in Python (Guide) – Real Python. https://realpython.com/python-comments-guide/.
+
 (16) Create documentation comments | PyCharm Documentation - JetBrains. https://bing.com/search?q=Python+Comments+documentation.
+
 (17) Create documentation comments | PyCharm Documentation - JetBrains. https://www.jetbrains.com/help/pycharm/creating-documentation-comments.html.
+
 (18) Python Comments - Python Tutorial. https://www.pythontutorial.net/python-basics/python-comments/.
+
 (19) Comments, Docstrings, and Type Hints in Python Code. https://machinelearningmastery.com/comments-docstrings-and-type-hints-in-python-code/.
+
 (20) Python Developer's Guide | Python.org. https://www.python.org/dev/.
+
 (21) The Python Language Reference — Python 3.11.5 documentation. https://docs.python.org/3/reference/index.html.
+
 (22) Python Random Module - W3Schools. https://www.w3schools.com/python/module_random.asp.
+
 (23) Python Random Module: Generate Random Numbers and Data - PYnative. https://pynative.com/python/random/.
+
 (24) random – pseudo-random numbers and choices - CircuitPython. https://docs.circuitpython.org/en/latest/shared-bindings/random/index.html.
+
 (25) Functional Programming HOWTO — Python 3.11.5 documentation. https://docs.python.org/3/howto/functional.html.
+
 (26) How to Document Functions in Python - codingem.com. https://www.codingem.com/python-how-to-document-functions/.
+
 (27) Python Control Flow - Python Cheatsheet. https://www.pythoncheatsheet.org/cheatsheet/control-flow.
+
 (28) Python List (With Examples) - Programiz. https://www.programiz.com/python-programming/list.
+
 (29) Python Lists | Python Education | Google for Developers. https://developers.google.com/edu/python/lists.
+
 (30) Lists, Tuples and Dictionaries - Python 101 1.0 documentation. https://python101.pythonlibrary.org/chapter3_lists_dicts.html.
+
 (31) undefined. https://devguide.python.org/.
 ## Lessons Learned
 Developing a game like this can teach you several important lessons:
